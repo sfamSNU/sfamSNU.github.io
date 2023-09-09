@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="sp17/theme/css/main.css" />
+<link rel="stylesheet" href="/main.css" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
 Statistical Foundations for A.I and Machine Learning 
